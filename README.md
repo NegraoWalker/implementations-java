@@ -1,0 +1,2 @@
+# O objetivo desse repositório é armazenar implementações envolvendo a linguagem Java:
+### Implementação 1: No pacote devsuperior foi implementado a inversão de controle e injeção de dependências usando o método construtor.
